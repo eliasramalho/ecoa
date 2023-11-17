@@ -1,0 +1,15 @@
+{
+  "name": "ecoa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "elias ramalho",
+  "license": "MIT",
+  "devDependencies": {
+    "faker-br": "^0.4.1",
+    "cypress": "12.2.0",
+    "cypress-tesults-reporter": "1.2.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
